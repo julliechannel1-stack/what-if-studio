@@ -1,0 +1,14 @@
+{
+  "id": "moon-disappeared-s10",
+  "title": "What If the Moon Disappeared Tonight?",
+  "segmentTitle": "Which gift would you save",
+  "segment": 10,
+  "durationInFrames": 1825,
+  "frames": 1825,
+  "voiceFrames": 1780,
+  "paddingFrames": 45,
+  "paddingNote": "durationInFrames = voice frames + 45 frames (1.5s hold for title/end card)",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080
+}

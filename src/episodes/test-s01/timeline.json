@@ -1,0 +1,7 @@
+{
+  "shots": [
+    {"name": "title", "first": 0, "len": 75},
+    {"name": "wordline", "first": 15, "len": 135}
+  ],
+  "audio": {"voice": "voice.wav", "sfx": "sfx.wav", "voiceVol": 0.8, "sfxVol": 0.027}
+}

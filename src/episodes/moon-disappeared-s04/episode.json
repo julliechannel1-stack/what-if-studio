@@ -1,0 +1,14 @@
+{
+  "id": "moon-disappeared-s04",
+  "title": "What If the Moon Disappeared Tonight?",
+  "segmentTitle": "Boats rest on mud",
+  "segment": 4,
+  "durationInFrames": 1761,
+  "frames": 1761,
+  "voiceFrames": 1716,
+  "paddingFrames": 45,
+  "paddingNote": "durationInFrames = voice frames + 45 frames (1.5s hold for title/end card)",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080
+}

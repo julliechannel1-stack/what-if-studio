@@ -1,0 +1,9 @@
+{
+  "id": "test-s01",
+  "title": "Test scene",
+  "durationInFrames": 150,
+  "frames": 150,
+  "fps": 30,
+  "width": 1920,
+  "height": 1080
+}

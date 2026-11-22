@@ -1,0 +1,30 @@
+{
+  "shots": [
+    {
+      "name": "opening",
+      "first": 0,
+      "len": 451
+    },
+    {
+      "name": "leaning Earth",
+      "first": 451,
+      "len": 451
+    },
+    {
+      "name": "wandering rain",
+      "first": 902,
+      "len": 451
+    },
+    {
+      "name": "grandchildren",
+      "first": 1353,
+      "len": 451
+    }
+  ],
+  "audio": {
+    "voice": "voice.wav",
+    "sfx": "sfx.wav",
+    "voiceVol": 0.8,
+    "sfxVol": 0.03
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "shots": [
+    {
+      "name": "opening",
+      "first": 0,
+      "len": 446
+    },
+    {
+      "name": "midnight",
+      "first": 446,
+      "len": 446
+    },
+    {
+      "name": "confused creatures",
+      "first": 892,
+      "len": 446
+    },
+    {
+      "name": "endless dark",
+      "first": 1338,
+      "len": 448
+    }
+  ],
+  "audio": {
+    "voice": "voice.wav",
+    "sfx": "sfx.wav",
+    "voiceVol": 0.8,
+    "sfxVol": 0.03
+  }
+}

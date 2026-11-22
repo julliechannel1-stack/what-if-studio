@@ -1,0 +1,14 @@
+{
+  "id": "moon-disappeared-s02",
+  "title": "What If the Moon Disappeared Tonight?",
+  "segmentTitle": "The tide turns thin",
+  "segment": 2,
+  "durationInFrames": 1861,
+  "frames": 1861,
+  "voiceFrames": 1816,
+  "paddingFrames": 45,
+  "paddingNote": "durationInFrames = voice frames + 45 frames (1.5s hold for title/end card)",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080
+}

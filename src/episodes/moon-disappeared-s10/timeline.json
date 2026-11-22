@@ -1,0 +1,30 @@
+{
+  "shots": [
+    {
+      "name": "opening",
+      "first": 0,
+      "len": 456
+    },
+    {
+      "name": "three gifts",
+      "first": 456,
+      "len": 456
+    },
+    {
+      "name": "look up now",
+      "first": 912,
+      "len": 456
+    },
+    {
+      "name": "comment card",
+      "first": 1368,
+      "len": 457
+    }
+  ],
+  "audio": {
+    "voice": "voice.wav",
+    "sfx": "sfx.wav",
+    "voiceVol": 0.8,
+    "sfxVol": 0.03
+  }
+}

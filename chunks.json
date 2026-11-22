@@ -1,0 +1,877 @@
+[
+  {
+    "seg": "s01",
+    "chunk": "c0000",
+    "comp": "MoonDisappearedS01",
+    "frames": "0-149",
+    "expected": 150
+  },
+  {
+    "seg": "s01",
+    "chunk": "c0001",
+    "comp": "MoonDisappearedS01",
+    "frames": "150-299",
+    "expected": 150
+  },
+  {
+    "seg": "s01",
+    "chunk": "c0002",
+    "comp": "MoonDisappearedS01",
+    "frames": "300-449",
+    "expected": 150
+  },
+  {
+    "seg": "s01",
+    "chunk": "c0003",
+    "comp": "MoonDisappearedS01",
+    "frames": "450-599",
+    "expected": 150
+  },
+  {
+    "seg": "s01",
+    "chunk": "c0004",
+    "comp": "MoonDisappearedS01",
+    "frames": "600-749",
+    "expected": 150
+  },
+  {
+    "seg": "s01",
+    "chunk": "c0005",
+    "comp": "MoonDisappearedS01",
+    "frames": "750-899",
+    "expected": 150
+  },
+  {
+    "seg": "s01",
+    "chunk": "c0006",
+    "comp": "MoonDisappearedS01",
+    "frames": "900-1049",
+    "expected": 150
+  },
+  {
+    "seg": "s01",
+    "chunk": "c0007",
+    "comp": "MoonDisappearedS01",
+    "frames": "1050-1199",
+    "expected": 150
+  },
+  {
+    "seg": "s01",
+    "chunk": "c0008",
+    "comp": "MoonDisappearedS01",
+    "frames": "1200-1349",
+    "expected": 150
+  },
+  {
+    "seg": "s01",
+    "chunk": "c0009",
+    "comp": "MoonDisappearedS01",
+    "frames": "1350-1499",
+    "expected": 150
+  },
+  {
+    "seg": "s01",
+    "chunk": "c0010",
+    "comp": "MoonDisappearedS01",
+    "frames": "1500-1649",
+    "expected": 150
+  },
+  {
+    "seg": "s01",
+    "chunk": "c0011",
+    "comp": "MoonDisappearedS01",
+    "frames": "1650-1799",
+    "expected": 150
+  },
+  {
+    "seg": "s01",
+    "chunk": "c0012",
+    "comp": "MoonDisappearedS01",
+    "frames": "1800-1909",
+    "expected": 110
+  },
+  {
+    "seg": "s02",
+    "chunk": "c0013",
+    "comp": "MoonDisappearedS02",
+    "frames": "0-149",
+    "expected": 150
+  },
+  {
+    "seg": "s02",
+    "chunk": "c0014",
+    "comp": "MoonDisappearedS02",
+    "frames": "150-299",
+    "expected": 150
+  },
+  {
+    "seg": "s02",
+    "chunk": "c0015",
+    "comp": "MoonDisappearedS02",
+    "frames": "300-449",
+    "expected": 150
+  },
+  {
+    "seg": "s02",
+    "chunk": "c0016",
+    "comp": "MoonDisappearedS02",
+    "frames": "450-599",
+    "expected": 150
+  },
+  {
+    "seg": "s02",
+    "chunk": "c0017",
+    "comp": "MoonDisappearedS02",
+    "frames": "600-749",
+    "expected": 150
+  },
+  {
+    "seg": "s02",
+    "chunk": "c0018",
+    "comp": "MoonDisappearedS02",
+    "frames": "750-899",
+    "expected": 150
+  },
+  {
+    "seg": "s02",
+    "chunk": "c0019",
+    "comp": "MoonDisappearedS02",
+    "frames": "900-1049",
+    "expected": 150
+  },
+  {
+    "seg": "s02",
+    "chunk": "c0020",
+    "comp": "MoonDisappearedS02",
+    "frames": "1050-1199",
+    "expected": 150
+  },
+  {
+    "seg": "s02",
+    "chunk": "c0021",
+    "comp": "MoonDisappearedS02",
+    "frames": "1200-1349",
+    "expected": 150
+  },
+  {
+    "seg": "s02",
+    "chunk": "c0022",
+    "comp": "MoonDisappearedS02",
+    "frames": "1350-1499",
+    "expected": 150
+  },
+  {
+    "seg": "s02",
+    "chunk": "c0023",
+    "comp": "MoonDisappearedS02",
+    "frames": "1500-1649",
+    "expected": 150
+  },
+  {
+    "seg": "s02",
+    "chunk": "c0024",
+    "comp": "MoonDisappearedS02",
+    "frames": "1650-1799",
+    "expected": 150
+  },
+  {
+    "seg": "s02",
+    "chunk": "c0025",
+    "comp": "MoonDisappearedS02",
+    "frames": "1800-1860",
+    "expected": 61
+  },
+  {
+    "seg": "s03",
+    "chunk": "c0026",
+    "comp": "MoonDisappearedS03",
+    "frames": "0-149",
+    "expected": 150
+  },
+  {
+    "seg": "s03",
+    "chunk": "c0027",
+    "comp": "MoonDisappearedS03",
+    "frames": "150-299",
+    "expected": 150
+  },
+  {
+    "seg": "s03",
+    "chunk": "c0028",
+    "comp": "MoonDisappearedS03",
+    "frames": "300-449",
+    "expected": 150
+  },
+  {
+    "seg": "s03",
+    "chunk": "c0029",
+    "comp": "MoonDisappearedS03",
+    "frames": "450-599",
+    "expected": 150
+  },
+  {
+    "seg": "s03",
+    "chunk": "c0030",
+    "comp": "MoonDisappearedS03",
+    "frames": "600-749",
+    "expected": 150
+  },
+  {
+    "seg": "s03",
+    "chunk": "c0031",
+    "comp": "MoonDisappearedS03",
+    "frames": "750-899",
+    "expected": 150
+  },
+  {
+    "seg": "s03",
+    "chunk": "c0032",
+    "comp": "MoonDisappearedS03",
+    "frames": "900-1049",
+    "expected": 150
+  },
+  {
+    "seg": "s03",
+    "chunk": "c0033",
+    "comp": "MoonDisappearedS03",
+    "frames": "1050-1199",
+    "expected": 150
+  },
+  {
+    "seg": "s03",
+    "chunk": "c0034",
+    "comp": "MoonDisappearedS03",
+    "frames": "1200-1349",
+    "expected": 150
+  },
+  {
+    "seg": "s03",
+    "chunk": "c0035",
+    "comp": "MoonDisappearedS03",
+    "frames": "1350-1499",
+    "expected": 150
+  },
+  {
+    "seg": "s03",
+    "chunk": "c0036",
+    "comp": "MoonDisappearedS03",
+    "frames": "1500-1649",
+    "expected": 150
+  },
+  {
+    "seg": "s03",
+    "chunk": "c0037",
+    "comp": "MoonDisappearedS03",
+    "frames": "1650-1785",
+    "expected": 136
+  },
+  {
+    "seg": "s04",
+    "chunk": "c0038",
+    "comp": "MoonDisappearedS04",
+    "frames": "0-149",
+    "expected": 150
+  },
+  {
+    "seg": "s04",
+    "chunk": "c0039",
+    "comp": "MoonDisappearedS04",
+    "frames": "150-299",
+    "expected": 150
+  },
+  {
+    "seg": "s04",
+    "chunk": "c0040",
+    "comp": "MoonDisappearedS04",
+    "frames": "300-449",
+    "expected": 150
+  },
+  {
+    "seg": "s04",
+    "chunk": "c0041",
+    "comp": "MoonDisappearedS04",
+    "frames": "450-599",
+    "expected": 150
+  },
+  {
+    "seg": "s04",
+    "chunk": "c0042",
+    "comp": "MoonDisappearedS04",
+    "frames": "600-749",
+    "expected": 150
+  },
+  {
+    "seg": "s04",
+    "chunk": "c0043",
+    "comp": "MoonDisappearedS04",
+    "frames": "750-899",
+    "expected": 150
+  },
+  {
+    "seg": "s04",
+    "chunk": "c0044",
+    "comp": "MoonDisappearedS04",
+    "frames": "900-1049",
+    "expected": 150
+  },
+  {
+    "seg": "s04",
+    "chunk": "c0045",
+    "comp": "MoonDisappearedS04",
+    "frames": "1050-1199",
+    "expected": 150
+  },
+  {
+    "seg": "s04",
+    "chunk": "c0046",
+    "comp": "MoonDisappearedS04",
+    "frames": "1200-1349",
+    "expected": 150
+  },
+  {
+    "seg": "s04",
+    "chunk": "c0047",
+    "comp": "MoonDisappearedS04",
+    "frames": "1350-1499",
+    "expected": 150
+  },
+  {
+    "seg": "s04",
+    "chunk": "c0048",
+    "comp": "MoonDisappearedS04",
+    "frames": "1500-1649",
+    "expected": 150
+  },
+  {
+    "seg": "s04",
+    "chunk": "c0049",
+    "comp": "MoonDisappearedS04",
+    "frames": "1650-1760",
+    "expected": 111
+  },
+  {
+    "seg": "s05",
+    "chunk": "c0050",
+    "comp": "MoonDisappearedS05",
+    "frames": "0-149",
+    "expected": 150
+  },
+  {
+    "seg": "s05",
+    "chunk": "c0051",
+    "comp": "MoonDisappearedS05",
+    "frames": "150-299",
+    "expected": 150
+  },
+  {
+    "seg": "s05",
+    "chunk": "c0052",
+    "comp": "MoonDisappearedS05",
+    "frames": "300-449",
+    "expected": 150
+  },
+  {
+    "seg": "s05",
+    "chunk": "c0053",
+    "comp": "MoonDisappearedS05",
+    "frames": "450-599",
+    "expected": 150
+  },
+  {
+    "seg": "s05",
+    "chunk": "c0054",
+    "comp": "MoonDisappearedS05",
+    "frames": "600-749",
+    "expected": 150
+  },
+  {
+    "seg": "s05",
+    "chunk": "c0055",
+    "comp": "MoonDisappearedS05",
+    "frames": "750-899",
+    "expected": 150
+  },
+  {
+    "seg": "s05",
+    "chunk": "c0056",
+    "comp": "MoonDisappearedS05",
+    "frames": "900-1049",
+    "expected": 150
+  },
+  {
+    "seg": "s05",
+    "chunk": "c0057",
+    "comp": "MoonDisappearedS05",
+    "frames": "1050-1199",
+    "expected": 150
+  },
+  {
+    "seg": "s05",
+    "chunk": "c0058",
+    "comp": "MoonDisappearedS05",
+    "frames": "1200-1349",
+    "expected": 150
+  },
+  {
+    "seg": "s05",
+    "chunk": "c0059",
+    "comp": "MoonDisappearedS05",
+    "frames": "1350-1499",
+    "expected": 150
+  },
+  {
+    "seg": "s05",
+    "chunk": "c0060",
+    "comp": "MoonDisappearedS05",
+    "frames": "1500-1649",
+    "expected": 150
+  },
+  {
+    "seg": "s05",
+    "chunk": "c0061",
+    "comp": "MoonDisappearedS05",
+    "frames": "1650-1702",
+    "expected": 53
+  },
+  {
+    "seg": "s06",
+    "chunk": "c0062",
+    "comp": "MoonDisappearedS06",
+    "frames": "0-149",
+    "expected": 150
+  },
+  {
+    "seg": "s06",
+    "chunk": "c0063",
+    "comp": "MoonDisappearedS06",
+    "frames": "150-299",
+    "expected": 150
+  },
+  {
+    "seg": "s06",
+    "chunk": "c0064",
+    "comp": "MoonDisappearedS06",
+    "frames": "300-449",
+    "expected": 150
+  },
+  {
+    "seg": "s06",
+    "chunk": "c0065",
+    "comp": "MoonDisappearedS06",
+    "frames": "450-599",
+    "expected": 150
+  },
+  {
+    "seg": "s06",
+    "chunk": "c0066",
+    "comp": "MoonDisappearedS06",
+    "frames": "600-749",
+    "expected": 150
+  },
+  {
+    "seg": "s06",
+    "chunk": "c0067",
+    "comp": "MoonDisappearedS06",
+    "frames": "750-899",
+    "expected": 150
+  },
+  {
+    "seg": "s06",
+    "chunk": "c0068",
+    "comp": "MoonDisappearedS06",
+    "frames": "900-1049",
+    "expected": 150
+  },
+  {
+    "seg": "s06",
+    "chunk": "c0069",
+    "comp": "MoonDisappearedS06",
+    "frames": "1050-1199",
+    "expected": 150
+  },
+  {
+    "seg": "s06",
+    "chunk": "c0070",
+    "comp": "MoonDisappearedS06",
+    "frames": "1200-1349",
+    "expected": 150
+  },
+  {
+    "seg": "s06",
+    "chunk": "c0071",
+    "comp": "MoonDisappearedS06",
+    "frames": "1350-1499",
+    "expected": 150
+  },
+  {
+    "seg": "s06",
+    "chunk": "c0072",
+    "comp": "MoonDisappearedS06",
+    "frames": "1500-1649",
+    "expected": 150
+  },
+  {
+    "seg": "s06",
+    "chunk": "c0073",
+    "comp": "MoonDisappearedS06",
+    "frames": "1650-1785",
+    "expected": 136
+  },
+  {
+    "seg": "s07",
+    "chunk": "c0074",
+    "comp": "MoonDisappearedS07",
+    "frames": "0-149",
+    "expected": 150
+  },
+  {
+    "seg": "s07",
+    "chunk": "c0075",
+    "comp": "MoonDisappearedS07",
+    "frames": "150-299",
+    "expected": 150
+  },
+  {
+    "seg": "s07",
+    "chunk": "c0076",
+    "comp": "MoonDisappearedS07",
+    "frames": "300-449",
+    "expected": 150
+  },
+  {
+    "seg": "s07",
+    "chunk": "c0077",
+    "comp": "MoonDisappearedS07",
+    "frames": "450-599",
+    "expected": 150
+  },
+  {
+    "seg": "s07",
+    "chunk": "c0078",
+    "comp": "MoonDisappearedS07",
+    "frames": "600-749",
+    "expected": 150
+  },
+  {
+    "seg": "s07",
+    "chunk": "c0079",
+    "comp": "MoonDisappearedS07",
+    "frames": "750-899",
+    "expected": 150
+  },
+  {
+    "seg": "s07",
+    "chunk": "c0080",
+    "comp": "MoonDisappearedS07",
+    "frames": "900-1049",
+    "expected": 150
+  },
+  {
+    "seg": "s07",
+    "chunk": "c0081",
+    "comp": "MoonDisappearedS07",
+    "frames": "1050-1199",
+    "expected": 150
+  },
+  {
+    "seg": "s07",
+    "chunk": "c0082",
+    "comp": "MoonDisappearedS07",
+    "frames": "1200-1349",
+    "expected": 150
+  },
+  {
+    "seg": "s07",
+    "chunk": "c0083",
+    "comp": "MoonDisappearedS07",
+    "frames": "1350-1499",
+    "expected": 150
+  },
+  {
+    "seg": "s07",
+    "chunk": "c0084",
+    "comp": "MoonDisappearedS07",
+    "frames": "1500-1649",
+    "expected": 150
+  },
+  {
+    "seg": "s07",
+    "chunk": "c0085",
+    "comp": "MoonDisappearedS07",
+    "frames": "1650-1799",
+    "expected": 150
+  },
+  {
+    "seg": "s07",
+    "chunk": "c0086",
+    "comp": "MoonDisappearedS07",
+    "frames": "1800-1803",
+    "expected": 4
+  },
+  {
+    "seg": "s08",
+    "chunk": "c0087",
+    "comp": "MoonDisappearedS08",
+    "frames": "0-149",
+    "expected": 150
+  },
+  {
+    "seg": "s08",
+    "chunk": "c0088",
+    "comp": "MoonDisappearedS08",
+    "frames": "150-299",
+    "expected": 150
+  },
+  {
+    "seg": "s08",
+    "chunk": "c0089",
+    "comp": "MoonDisappearedS08",
+    "frames": "300-449",
+    "expected": 150
+  },
+  {
+    "seg": "s08",
+    "chunk": "c0090",
+    "comp": "MoonDisappearedS08",
+    "frames": "450-599",
+    "expected": 150
+  },
+  {
+    "seg": "s08",
+    "chunk": "c0091",
+    "comp": "MoonDisappearedS08",
+    "frames": "600-749",
+    "expected": 150
+  },
+  {
+    "seg": "s08",
+    "chunk": "c0092",
+    "comp": "MoonDisappearedS08",
+    "frames": "750-899",
+    "expected": 150
+  },
+  {
+    "seg": "s08",
+    "chunk": "c0093",
+    "comp": "MoonDisappearedS08",
+    "frames": "900-1049",
+    "expected": 150
+  },
+  {
+    "seg": "s08",
+    "chunk": "c0094",
+    "comp": "MoonDisappearedS08",
+    "frames": "1050-1199",
+    "expected": 150
+  },
+  {
+    "seg": "s08",
+    "chunk": "c0095",
+    "comp": "MoonDisappearedS08",
+    "frames": "1200-1349",
+    "expected": 150
+  },
+  {
+    "seg": "s08",
+    "chunk": "c0096",
+    "comp": "MoonDisappearedS08",
+    "frames": "1350-1499",
+    "expected": 150
+  },
+  {
+    "seg": "s08",
+    "chunk": "c0097",
+    "comp": "MoonDisappearedS08",
+    "frames": "1500-1649",
+    "expected": 150
+  },
+  {
+    "seg": "s08",
+    "chunk": "c0098",
+    "comp": "MoonDisappearedS08",
+    "frames": "1650-1799",
+    "expected": 150
+  },
+  {
+    "seg": "s08",
+    "chunk": "c0099",
+    "comp": "MoonDisappearedS08",
+    "frames": "1800-1847",
+    "expected": 48
+  },
+  {
+    "seg": "s09",
+    "chunk": "c0100",
+    "comp": "MoonDisappearedS09",
+    "frames": "0-149",
+    "expected": 150
+  },
+  {
+    "seg": "s09",
+    "chunk": "c0101",
+    "comp": "MoonDisappearedS09",
+    "frames": "150-299",
+    "expected": 150
+  },
+  {
+    "seg": "s09",
+    "chunk": "c0102",
+    "comp": "MoonDisappearedS09",
+    "frames": "300-449",
+    "expected": 150
+  },
+  {
+    "seg": "s09",
+    "chunk": "c0103",
+    "comp": "MoonDisappearedS09",
+    "frames": "450-599",
+    "expected": 150
+  },
+  {
+    "seg": "s09",
+    "chunk": "c0104",
+    "comp": "MoonDisappearedS09",
+    "frames": "600-749",
+    "expected": 150
+  },
+  {
+    "seg": "s09",
+    "chunk": "c0105",
+    "comp": "MoonDisappearedS09",
+    "frames": "750-899",
+    "expected": 150
+  },
+  {
+    "seg": "s09",
+    "chunk": "c0106",
+    "comp": "MoonDisappearedS09",
+    "frames": "900-1049",
+    "expected": 150
+  },
+  {
+    "seg": "s09",
+    "chunk": "c0107",
+    "comp": "MoonDisappearedS09",
+    "frames": "1050-1199",
+    "expected": 150
+  },
+  {
+    "seg": "s09",
+    "chunk": "c0108",
+    "comp": "MoonDisappearedS09",
+    "frames": "1200-1349",
+    "expected": 150
+  },
+  {
+    "seg": "s09",
+    "chunk": "c0109",
+    "comp": "MoonDisappearedS09",
+    "frames": "1350-1499",
+    "expected": 150
+  },
+  {
+    "seg": "s09",
+    "chunk": "c0110",
+    "comp": "MoonDisappearedS09",
+    "frames": "1500-1649",
+    "expected": 150
+  },
+  {
+    "seg": "s09",
+    "chunk": "c0111",
+    "comp": "MoonDisappearedS09",
+    "frames": "1650-1728",
+    "expected": 79
+  },
+  {
+    "seg": "s10",
+    "chunk": "c0112",
+    "comp": "MoonDisappearedS10",
+    "frames": "0-149",
+    "expected": 150
+  },
+  {
+    "seg": "s10",
+    "chunk": "c0113",
+    "comp": "MoonDisappearedS10",
+    "frames": "150-299",
+    "expected": 150
+  },
+  {
+    "seg": "s10",
+    "chunk": "c0114",
+    "comp": "MoonDisappearedS10",
+    "frames": "300-449",
+    "expected": 150
+  },
+  {
+    "seg": "s10",
+    "chunk": "c0115",
+    "comp": "MoonDisappearedS10",
+    "frames": "450-599",
+    "expected": 150
+  },
+  {
+    "seg": "s10",
+    "chunk": "c0116",
+    "comp": "MoonDisappearedS10",
+    "frames": "600-749",
+    "expected": 150
+  },
+  {
+    "seg": "s10",
+    "chunk": "c0117",
+    "comp": "MoonDisappearedS10",
+    "frames": "750-899",
+    "expected": 150
+  },
+  {
+    "seg": "s10",
+    "chunk": "c0118",
+    "comp": "MoonDisappearedS10",
+    "frames": "900-1049",
+    "expected": 150
+  },
+  {
+    "seg": "s10",
+    "chunk": "c0119",
+    "comp": "MoonDisappearedS10",
+    "frames": "1050-1199",
+    "expected": 150
+  },
+  {
+    "seg": "s10",
+    "chunk": "c0120",
+    "comp": "MoonDisappearedS10",
+    "frames": "1200-1349",
+    "expected": 150
+  },
+  {
+    "seg": "s10",
+    "chunk": "c0121",
+    "comp": "MoonDisappearedS10",
+    "frames": "1350-1499",
+    "expected": 150
+  },
+  {
+    "seg": "s10",
+    "chunk": "c0122",
+    "comp": "MoonDisappearedS10",
+    "frames": "1500-1649",
+    "expected": 150
+  },
+  {
+    "seg": "s10",
+    "chunk": "c0123",
+    "comp": "MoonDisappearedS10",
+    "frames": "1650-1799",
+    "expected": 150
+  },
+  {
+    "seg": "s10",
+    "chunk": "c0124",
+    "comp": "MoonDisappearedS10",
+    "frames": "1800-1824",
+    "expected": 25
+  }
+]

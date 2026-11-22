@@ -1,0 +1,30 @@
+{
+  "shots": [
+    {
+      "name": "opening",
+      "first": 0,
+      "len": 446
+    },
+    {
+      "name": "spinning top",
+      "first": 446,
+      "len": 446
+    },
+    {
+      "name": "steady hand",
+      "first": 892,
+      "len": 446
+    },
+    {
+      "name": "slipping tilt",
+      "first": 1338,
+      "len": 448
+    }
+  ],
+  "audio": {
+    "voice": "voice.wav",
+    "sfx": "sfx.wav",
+    "voiceVol": 0.8,
+    "sfxVol": 0.03
+  }
+}

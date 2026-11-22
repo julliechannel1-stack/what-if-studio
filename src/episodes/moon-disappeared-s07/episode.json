@@ -1,0 +1,14 @@
+{
+  "id": "moon-disappeared-s07",
+  "title": "What If the Moon Disappeared Tonight?",
+  "segmentTitle": "The seasons wander",
+  "segment": 7,
+  "durationInFrames": 1804,
+  "frames": 1804,
+  "voiceFrames": 1759,
+  "paddingFrames": 45,
+  "paddingNote": "durationInFrames = voice frames + 45 frames (1.5s hold for title/end card)",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080
+}

@@ -1,0 +1,30 @@
+{
+  "shots": [
+    {
+      "name": "opening",
+      "first": 0,
+      "len": 425
+    },
+    {
+      "name": "inland",
+      "first": 425,
+      "len": 425
+    },
+    {
+      "name": "cracked marsh",
+      "first": 850,
+      "len": 425
+    },
+    {
+      "name": "empty jar",
+      "first": 1275,
+      "len": 428
+    }
+  ],
+  "audio": {
+    "voice": "voice.wav",
+    "sfx": "sfx.wav",
+    "voiceVol": 0.8,
+    "sfxVol": 0.03
+  }
+}

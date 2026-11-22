@@ -1,0 +1,8 @@
+node_modules/
+out/
+.slotlock
+drivers/render-*.sh
+*.log
+.DS_Store
+.tmp/
+logs/

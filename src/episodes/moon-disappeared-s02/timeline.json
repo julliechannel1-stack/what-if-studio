@@ -1,0 +1,30 @@
+{
+  "shots": [
+    {
+      "name": "opening",
+      "first": 0,
+      "len": 465
+    },
+    {
+      "name": "harbour",
+      "first": 465,
+      "len": 465
+    },
+    {
+      "name": "low water",
+      "first": 930,
+      "len": 465
+    },
+    {
+      "name": "quiet ocean",
+      "first": 1395,
+      "len": 466
+    }
+  ],
+  "audio": {
+    "voice": "voice.wav",
+    "sfx": "sfx.wav",
+    "voiceVol": 0.8,
+    "sfxVol": 0.03
+  }
+}

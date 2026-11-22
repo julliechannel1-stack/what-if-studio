@@ -1,0 +1,30 @@
+{
+  "shots": [
+    {
+      "name": "opening",
+      "first": 0,
+      "len": 432
+    },
+    {
+      "name": "brighter lights",
+      "first": 432,
+      "len": 432
+    },
+    {
+      "name": "old photographs",
+      "first": 864,
+      "len": 432
+    },
+    {
+      "name": "never decoration",
+      "first": 1296,
+      "len": 433
+    }
+  ],
+  "audio": {
+    "voice": "voice.wav",
+    "sfx": "sfx.wav",
+    "voiceVol": 0.8,
+    "sfxVol": 0.03
+  }
+}

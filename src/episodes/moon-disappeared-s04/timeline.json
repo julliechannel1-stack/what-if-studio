@@ -1,0 +1,30 @@
+{
+  "shots": [
+    {
+      "name": "opening",
+      "first": 0,
+      "len": 440
+    },
+    {
+      "name": "morning",
+      "first": 440,
+      "len": 440
+    },
+    {
+      "name": "harbour mud",
+      "first": 880,
+      "len": 440
+    },
+    {
+      "name": "shallow sigh",
+      "first": 1320,
+      "len": 441
+    }
+  ],
+  "audio": {
+    "voice": "voice.wav",
+    "sfx": "sfx.wav",
+    "voiceVol": 0.8,
+    "sfxVol": 0.03
+  }
+}

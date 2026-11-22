@@ -1,0 +1,14 @@
+{
+  "id": "moon-disappeared-s05",
+  "title": "What If the Moon Disappeared Tonight?",
+  "segmentTitle": "The month loses meaning",
+  "segment": 5,
+  "durationInFrames": 1703,
+  "frames": 1703,
+  "voiceFrames": 1658,
+  "paddingFrames": 45,
+  "paddingNote": "durationInFrames = voice frames + 45 frames (1.5s hold for title/end card)",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080
+}

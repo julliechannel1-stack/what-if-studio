@@ -1,0 +1,25 @@
+{
+  "audio": {
+    "sfx": "sfx.wav",
+    "sfxVol": 0.25,
+    "voice": "voice.wav",
+    "voiceVol": 0.8
+  },
+  "shots": [
+    {
+      "first": 0,
+      "len": 170,
+      "name": "dark room, knocking"
+    },
+    {
+      "first": 170,
+      "len": 190,
+      "name": "lamp on, reveal on dresser"
+    },
+    {
+      "first": 360,
+      "len": 240,
+      "name": "close-up Opal, slow blink"
+    }
+  ]
+}

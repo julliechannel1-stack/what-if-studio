@@ -1,0 +1,61 @@
+name: Render test (single chunk)
+
+on:
+  workflow_dispatch:
+    inputs:
+      seg:
+        description: Segment, e.g. s01
+        required: true
+        type: string
+      chunk:
+        description: Chunk, e.g. c0750
+        required: true
+        type: string
+      comp:
+        description: Composition, e.g. TestChunk
+        required: true
+        type: string
+      frames:
+        description: Frame range, e.g. 750-899
+        required: true
+        type: string
+      expected:
+        description: Expected frame count, e.g. 150
+        required: true
+        type: string
+      episode:
+        description: Episode slug, e.g. stoptime
+        required: true
+        type: string
+
+jobs:
+  render-one:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Install system deps for Chromium
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg libnss3 libatk1.0-0 libatk-bridge2.0-0 libcups2 libdrm2 libxkbcommon0 libxcomposite1 libxdamage1 libxfixes3 libxrandr2 libgbm1 libasound2t64 libpango-1.0-0 libcairo2
+      - name: Install dependencies
+        run: npm ci
+      - name: Ensure browser
+        run: npx remotion browser ensure
+      - name: Render single chunk
+        run: |
+          OUT="out/${{ inputs.episode }}-${{ inputs.seg }}/chunks/${{ inputs.chunk }}.mp4"
+          mkdir -p "$(dirname "$OUT")"
+          rm -f "$OUT"
+          npx remotion render src/index.ts "${{ inputs.comp }}" "$OUT" --frames="${{ inputs.frames }}" --concurrency 1 --timeout 120000 --log error
+          COUNT=$(ffprobe -v error -select_streams v:0 -count_frames -show_entries stream=nb_read_frames -of default=noprint_wrappers=1:nokey=1 "$OUT")
+          echo "ffprobe=$COUNT expected=${{ inputs.expected }}"
+          test "$COUNT" = "${{ inputs.expected }}"
+      - name: Upload chunk artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: chunk-${{ inputs.seg }}-${{ inputs.chunk }}
+          path: out/${{ inputs.episode }}-${{ inputs.seg }}/chunks/${{ inputs.chunk }}.mp4
+          retention-days: 1

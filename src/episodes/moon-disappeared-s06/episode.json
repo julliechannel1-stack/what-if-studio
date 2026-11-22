@@ -1,0 +1,14 @@
+{
+  "id": "moon-disappeared-s06",
+  "title": "What If the Moon Disappeared Tonight?",
+  "segmentTitle": "The steady hand",
+  "segment": 6,
+  "durationInFrames": 1786,
+  "frames": 1786,
+  "voiceFrames": 1741,
+  "paddingFrames": 45,
+  "paddingNote": "durationInFrames = voice frames + 45 frames (1.5s hold for title/end card)",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080
+}

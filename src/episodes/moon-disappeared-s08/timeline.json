@@ -1,0 +1,30 @@
+{
+  "shots": [
+    {
+      "name": "opening",
+      "first": 0,
+      "len": 462
+    },
+    {
+      "name": "braking spin",
+      "first": 462,
+      "len": 462
+    },
+    {
+      "name": "still water",
+      "first": 924,
+      "len": 462
+    },
+    {
+      "name": "silent reefs",
+      "first": 1386,
+      "len": 462
+    }
+  ],
+  "audio": {
+    "voice": "voice.wav",
+    "sfx": "sfx.wav",
+    "voiceVol": 0.8,
+    "sfxVol": 0.03
+  }
+}

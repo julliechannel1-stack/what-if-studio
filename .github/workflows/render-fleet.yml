@@ -53,3 +53,4 @@ jobs:
           name: gofile-links-${{ strategy.job-index }}
           path: gofile-links.txt
           retention-days: 1
+# re-register test

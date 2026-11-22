@@ -59,3 +59,4 @@ jobs:
           name: chunk-${{ inputs.seg }}-${{ inputs.chunk }}
           path: out/${{ inputs.episode }}-${{ inputs.seg }}/chunks/${{ inputs.chunk }}.mp4
           retention-days: 1
+# re-register test

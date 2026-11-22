@@ -16,3 +16,4 @@ jobs:
           echo "hello from what-if-studio"
           node --version
           ls .github/workflows/
+# re-register test
